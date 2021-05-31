@@ -1,4 +1,8 @@
-
+/*
+ * Hydrabot is a testbed for rover projects
+ * Created by Zachary Sahnger
+ * Updated 5/25/2021
+ */
 #include <Hydra.h> //robot driver library
 
 #include <SPI.h> //library for oled display
